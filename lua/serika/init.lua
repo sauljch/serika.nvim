@@ -67,7 +67,7 @@ function M.setup()
         menu_bg     = palette.bg,
         menu_sel    = palette.mid_grey,
         fold        = palette.comment,
-        split       = palette.bg,
+        split       = palette.fg,
         border      = palette.border,
 
         -- Diagnostics
